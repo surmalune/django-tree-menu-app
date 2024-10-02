@@ -18,7 +18,7 @@ ORDER BY "tree_menu_app_menuitem"."order" ASC;
 ## Installation
 1. Clone the repository:
 ```bash
-git clone <repository_url>
+git clone https://github.com/surmalune/django-tree-menu-app.git
 ```
 2. Install dependencies:
 ```bash
